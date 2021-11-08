@@ -1,13 +1,16 @@
 
+import { useState } from 'react';
 import './App.css';
 import ApiFetch from './components/ApiFetch';
-import ParamsDeleteAndAdd from './components/ParamsDeleteAndAdd';
+import ApiResponseData from './components/ApiResponseData';
 
 function App() {
+  const [apiData, setApiData] = useState([]);
+  
   return (
     <div className="App">
-      <ApiFetch/>
-      <ParamsDeleteAndAdd/>
+      <ApiFetch setApiData = {setApiData}/>
+      <ApiResponseData apiData={apiData}/>
    </div>
   );
 }
