@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/postman-clone/static/css/main.41fef56b.chunk.css",
+    "main.js": "/postman-clone/static/js/main.b3f40ffa.chunk.js",
+    "main.js.map": "/postman-clone/static/js/main.b3f40ffa.chunk.js.map",
+    "runtime-main.js": "/postman-clone/static/js/runtime-main.e1afae34.js",
+    "runtime-main.js.map": "/postman-clone/static/js/runtime-main.e1afae34.js.map",
+    "static/css/2.3e4b9cb4.chunk.css": "/postman-clone/static/css/2.3e4b9cb4.chunk.css",
+    "static/js/2.a23a2006.chunk.js": "/postman-clone/static/js/2.a23a2006.chunk.js",
+    "static/js/2.a23a2006.chunk.js.map": "/postman-clone/static/js/2.a23a2006.chunk.js.map",
+    "index.html": "/postman-clone/index.html",
+    "static/css/2.3e4b9cb4.chunk.css.map": "/postman-clone/static/css/2.3e4b9cb4.chunk.css.map",
+    "static/css/main.41fef56b.chunk.css.map": "/postman-clone/static/css/main.41fef56b.chunk.css.map",
+    "static/js/2.a23a2006.chunk.js.LICENSE.txt": "/postman-clone/static/js/2.a23a2006.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1afae34.js",
+    "static/css/2.3e4b9cb4.chunk.css",
+    "static/js/2.a23a2006.chunk.js",
+    "static/css/main.41fef56b.chunk.css",
+    "static/js/main.b3f40ffa.chunk.js"
+  ]
+}
